@@ -1,0 +1,2 @@
+# UiPath_nmnithinkrishna_PersistenceProcessWithAutoStop_03Mar2022_2122
+UiPath Fail the suspended task after some specific retries
